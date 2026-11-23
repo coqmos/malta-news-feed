@@ -1,5 +1,26 @@
 [
   {
+    "uid": "urn:uuid:63bab497-c27f-53a3-9970-df5d91fb4bf5",
+    "updateDate": "2026-11-23T11:55:00.0Z",
+    "titleText": "UK PM to defend EU deal in the face of criticism from Brexiteers",
+    "mainText": "From Times of Malta: UK PM to defend EU deal in the face of criticism from Brexiteers. Burnham and the EU's top officials sealed agreements to ease trade and youth mobility",
+    "redirectionUrl": "https://timesofmalta.com/article/uk-pm-defend-eu-deal-face-criticism-brexiteers.1137529"
+  },
+  {
+    "uid": "urn:uuid:ba01a7cc-ca5b-580f-94a6-8765c7abb7c7",
+    "updateDate": "2026-11-23T11:45:00.0Z",
+    "titleText": "Man cleared of drug trafficking after 26 years",
+    "mainText": "From Times of Malta: Man cleared of drug trafficking after 26 years. Joseph Camilleri was put under a probation order for two years",
+    "redirectionUrl": "https://timesofmalta.com/article/man-cleared-drug-trafficking-26-years.1137527"
+  },
+  {
+    "uid": "urn:uuid:fe1511f4-5074-54ef-88f1-571f79cca991",
+    "updateDate": "2026-11-23T11:30:00.0Z",
+    "titleText": "Mummy among ancient Egyptian artifacts on display at archaeology museum",
+    "mainText": "From Times of Malta: Mummy among ancient Egyptian artifacts on display at archaeology museum. Heritage Malta exhibition runs until May 16, 2027",
+    "redirectionUrl": "https://timesofmalta.com/article/mummy-among-ancient-egyptian-artifacts-display-archaeology-museum.1137517"
+  },
+  {
     "uid": "urn:uuid:1e8720c4-d337-57d0-bbc2-117628e1230d",
     "updateDate": "2026-11-23T10:54:00.0Z",
     "titleText": "Ryanair changes policy for passengers who do not pay to reserve seats",
@@ -12,26 +33,5 @@
     "titleText": "McDonald’s invites fans to rediscover their inner Kevin with Home Alone Meals",
     "mainText": "From Times of Malta: McDonald’s invites fans to rediscover their inner Kevin with Home Alone Meals. The new holiday campaign features anything from collectible socks to festive events, trivia nights and seasonal rewards",
     "redirectionUrl": "https://timesofmalta.com/article/mcdonald-invites-fans-rediscover-inner-kevin-home-alone-mea.1137405"
-  },
-  {
-    "uid": "urn:uuid:db420a95-70d3-5db4-a2db-825356ea32a7",
-    "updateDate": "2026-11-23T10:30:00.0Z",
-    "titleText": "'Government continues burying head in sand over its economic model': PN",
-    "mainText": "From Times of Malta: 'Government continues burying head in sand over its economic model': PN. Opposition says government ignoring warnings from its own experts",
-    "redirectionUrl": "https://timesofmalta.com/article/government-continues-burying-head-sand-economic-model-pn.1137523"
-  },
-  {
-    "uid": "urn:uuid:1de7bee8-07b8-555c-97b5-5260a3f43921",
-    "updateDate": "2026-11-23T10:20:00.0Z",
-    "titleText": "Spanish PM vows wealth tax ahead of election",
-    "mainText": "From Times of Malta: Spanish PM vows wealth tax ahead of election. Polls have indicated the PP will win most seats in the election but fall short of a parliamentary majority",
-    "redirectionUrl": "https://timesofmalta.com/article/spanish-pm-vows-wealth-tax-ahead-election.1137520"
-  },
-  {
-    "uid": "urn:uuid:c179eeee-0d85-50f9-81d6-c461287f4461",
-    "updateDate": "2026-11-23T10:15:00.0Z",
-    "titleText": "Ukraine claims responsibility for strikes on Russian ships off Libya",
-    "mainText": "From Times of Malta: Ukraine claims responsibility for strikes on Russian ships off Libya. Volodymyr Zelensky says Ukraine used seven naval drones against the vessels",
-    "redirectionUrl": "https://timesofmalta.com/article/ukraine-claims-responsibility-strikes-russian-ships-off-libya.1137524"
   }
 ]
