@@ -1,5 +1,26 @@
 [
   {
+    "uid": "urn:uuid:36a50d44-6bc1-598d-b8c4-37ac3fed721c",
+    "updateDate": "2026-11-23T12:50:00.0Z",
+    "titleText": "Ready for a good laugh? Jimmy Carr is coming back to Malta",
+    "mainText": "From Times of Malta: Ready for a good laugh? Jimmy Carr is coming back to Malta. 'Jimmy Carr Laughs Funny' show on March 20 at the MFCC",
+    "redirectionUrl": "https://timesofmalta.com/article/ready-good-laugh-jimmy-carr-coming-back-malta.1137530"
+  },
+  {
+    "uid": "urn:uuid:3773a175-6991-5f19-8b50-b2f0bc5f52b2",
+    "updateDate": "2026-11-23T12:45:00.0Z",
+    "titleText": "EU must have seat at Russia-Ukraine negotiating table: Speaker to US ambassador",
+    "mainText": "From Times of Malta: EU must have seat at Russia-Ukraine negotiating table: Speaker to US ambassador. Speaker Carmelo Abela meets US Ambassador Somers Farkas",
+    "redirectionUrl": "https://timesofmalta.com/article/eu-seat-russiaukraine-negotiating-table-speaker-us-ambassador.1137534"
+  },
+  {
+    "uid": "urn:uuid:20dc0f51-a6b6-5398-bf4b-4e4d5a2188fb",
+    "updateDate": "2026-11-23T12:30:00.0Z",
+    "titleText": "Number of guests at hotels, hostels up in third quarter 2026",
+    "mainText": "From Times of Malta: Number of guests at hotels, hostels up in third quarter 2026. Average length of stay slightly decreased to 4.8 nights",
+    "redirectionUrl": "https://timesofmalta.com/article/number-guests-hotels-hostels-third-quarter-2026.1137532"
+  },
+  {
     "uid": "urn:uuid:63bab497-c27f-53a3-9970-df5d91fb4bf5",
     "updateDate": "2026-11-23T11:55:00.0Z",
     "titleText": "UK PM to defend EU deal in the face of criticism from Brexiteers",
@@ -12,26 +33,5 @@
     "titleText": "Man cleared of drug trafficking after 26 years",
     "mainText": "From Times of Malta: Man cleared of drug trafficking after 26 years. Joseph Camilleri was put under a probation order for two years",
     "redirectionUrl": "https://timesofmalta.com/article/man-cleared-drug-trafficking-26-years.1137527"
-  },
-  {
-    "uid": "urn:uuid:fe1511f4-5074-54ef-88f1-571f79cca991",
-    "updateDate": "2026-11-23T11:30:00.0Z",
-    "titleText": "Mummy among ancient Egyptian artifacts on display at archaeology museum",
-    "mainText": "From Times of Malta: Mummy among ancient Egyptian artifacts on display at archaeology museum. Heritage Malta exhibition runs until May 16, 2027",
-    "redirectionUrl": "https://timesofmalta.com/article/mummy-among-ancient-egyptian-artifacts-display-archaeology-museum.1137517"
-  },
-  {
-    "uid": "urn:uuid:1e8720c4-d337-57d0-bbc2-117628e1230d",
-    "updateDate": "2026-11-23T10:54:00.0Z",
-    "titleText": "Ryanair changes policy for passengers who do not pay to reserve seats",
-    "mainText": "From Times of Malta: Ryanair changes policy for passengers who do not pay to reserve seats. A revised seating policy gives the low-cost airline more time to assign seats to those who do not pay",
-    "redirectionUrl": "https://timesofmalta.com/article/ryanair-changes-policy-passengers-pay-reserve-seats.1137525"
-  },
-  {
-    "uid": "urn:uuid:c94050e8-2de2-5795-adb0-3f60e45c05ff",
-    "updateDate": "2026-11-23T10:35:00.0Z",
-    "titleText": "McDonald’s invites fans to rediscover their inner Kevin with Home Alone Meals",
-    "mainText": "From Times of Malta: McDonald’s invites fans to rediscover their inner Kevin with Home Alone Meals. The new holiday campaign features anything from collectible socks to festive events, trivia nights and seasonal rewards",
-    "redirectionUrl": "https://timesofmalta.com/article/mcdonald-invites-fans-rediscover-inner-kevin-home-alone-mea.1137405"
   }
 ]
