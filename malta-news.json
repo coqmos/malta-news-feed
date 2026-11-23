@@ -1,5 +1,12 @@
 [
   {
+    "uid": "urn:uuid:1c3f65f5-569e-5179-a38e-7f2d7dd1d9ec",
+    "updateDate": "2026-11-23T06:12:00.0Z",
+    "titleText": "Augustinian Youths mark 10 years of friendship, faith and shared experiences",
+    "mainText": "From Times of Malta: Augustinian Youths mark 10 years of friendship, faith and shared experiences. The group brings young people together through faith, friendship and community",
+    "redirectionUrl": "https://timesofmalta.com/article/augustinian-youths-mark-10-years-friendship-faith-shared-experiences.1137508"
+  },
+  {
     "uid": "urn:uuid:90a5ce1e-11c5-5ff3-806d-6873dd326635",
     "updateDate": "2026-11-23T06:00:00.0Z",
     "titleText": "Cribs that tell a story",
@@ -9,8 +16,8 @@
   {
     "uid": "urn:uuid:0370545a-3e39-5e86-9b3a-d2e176a1b49a",
     "updateDate": "2026-11-23T05:50:00.0Z",
-    "titleText": "UN urges probe after two ship, including Russian vessel, attacked off Libya",
-    "mainText": "From Times of Malta: UN urges probe after two ship, including Russian vessel, attacked off Libya. All crew members had been rescued and were receiving treatment for minor injuries",
+    "titleText": "UN urges probe after two ships, including Russian vessel, attacked off Libya",
+    "mainText": "From Times of Malta: UN urges probe after two ships, including Russian vessel, attacked off Libya. All crew members had been rescued and were receiving treatment for minor injuries",
     "redirectionUrl": "https://timesofmalta.com/article/un-urges-probe-two-ship-including-russian-vessel-attacked-off-libya.1137512"
   },
   {
@@ -21,17 +28,10 @@
     "redirectionUrl": "https://timesofmalta.com/article/sleeping-airport-university-degree.1137501"
   },
   {
-    "uid": "urn:uuid:f63c5920-0068-575f-bbf2-052b70f55f09",
+    "uid": "urn:uuid:f481af09-7073-5b43-9e23-7b5070e0671a",
     "updateDate": "2026-11-23T05:30:00.0Z",
-    "titleText": "Europe has the brains, but where is the ambition?",
-    "mainText": "From Times of Malta: Europe has the brains, but where is the ambition? Europe cannot lead the AI revolution if it keeps financing everyone else’s success, says Alexiei Dingli",
-    "redirectionUrl": "https://timesofmalta.com/article/europe-brains-ambition.1137410"
-  },
-  {
-    "uid": "urn:uuid:62086f83-fcf4-57b0-afad-6ce61c29964d",
-    "updateDate": "2026-11-23T05:30:00.0Z",
-    "titleText": "Burlò – November 23, 2026",
-    "mainText": "From Times of Malta: Burlò – November 23, 2026. Today’s cartoon",
-    "redirectionUrl": "https://timesofmalta.com/article/burlo-november-23-2026.1137493"
+    "titleText": "Letters to the editor – November 23, 2026",
+    "mainText": "From Times of Malta: Letters to the editor – November 23, 2026. Today’s letters by Times of Malta readers",
+    "redirectionUrl": "https://timesofmalta.com/article/letters-editor-november-23-2026.1137456"
   }
 ]
