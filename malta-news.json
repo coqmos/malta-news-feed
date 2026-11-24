@@ -1,5 +1,12 @@
 [
   {
+    "uid": "urn:uuid:eb913639-38e8-5cb9-8857-8d6203c1baef",
+    "updateDate": "2026-11-24T09:00:00.0Z",
+    "titleText": "Momentum urges objections to seven-storey elderly care home in Mosta",
+    "mainText": "From Times of Malta: Momentum urges objections to seven-storey elderly care home in Mosta. Objections close on December 11",
+    "redirectionUrl": "https://timesofmalta.com/article/momentum-urges-objections-sevenstorey-elderly-care-home-mosta.1137566"
+  },
+  {
     "uid": "urn:uuid:2d580f32-18ab-58db-aba2-e598f3c151c5",
     "updateDate": "2026-11-24T06:00:00.0Z",
     "titleText": "Son discovers his father found body of woman killed in 1936 storm",
@@ -7,11 +14,11 @@
     "redirectionUrl": "https://timesofmalta.com/article/son-discovers-father-found-body-woman-killed-1936-storm.1137554"
   },
   {
-    "uid": "urn:uuid:7320fa68-2ca0-536e-ba7e-7300a4bc2af0",
-    "updateDate": "2026-11-24T05:20:00.0Z",
-    "titleText": "Culture watchdog steps up stadium oversight after Times questions",
-    "mainText": "From Times of Malta: Culture watchdog steps up stadium oversight after Times questions. Watchdog submits more stringent requirements after Times of Malta queried its initial approach",
-    "redirectionUrl": "https://timesofmalta.com/article/cultural-watchdog-calls-archaeological-evaluation-marsa-stadium.1137561"
+    "uid": "urn:uuid:ea644f4f-1fd9-5231-9684-ad7dd9a10862",
+    "updateDate": "2026-11-24T05:00:00.0Z",
+    "titleText": "WATCH | Abela non-committal on annual 14,000 net population increase",
+    "mainText": "From MaltaToday: WATCH | Abela non-committal on annual 14,000 net population increase. Budget measures targeting non-EU workers are expected to slow the population growth rate not reverse the trend, Robert Abela said in comments to MaltaToday. However, the prime minister was unable to provide projections on the deceleration rate when pressed on the matter.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145876/watch__abela_noncommittal_on_annual_14000_net_population_increase"
   },
   {
     "uid": "urn:uuid:af282a84-ac5c-5c8c-95bb-be5baf392c1c",
@@ -26,12 +33,5 @@
     "titleText": "Robert Abela defends foreign worker measures, accuses Opposition of double standards",
     "mainText": "From MaltaToday: Robert Abela defends foreign worker measures, accuses Opposition of double standards. Measures imposing new financial burdens on non-EU workers are “calibrated and just”, Robert Abela told parliament on Monday evening, rejecting accusations of discrimination and racism.",
     "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145912/robert_abela_defends_foreign_worker_measures_accuses_opposition_of_double_standards"
-  },
-  {
-    "uid": "urn:uuid:c2970004-fe0e-5359-b2b2-215d6a2c16b5",
-    "updateDate": "2026-11-23T17:41:00.0Z",
-    "titleText": "Borg accuses Abela, Caruana of failing to understand workers, says they are ‘used to luxury’",
-    "mainText": "From The Malta Independent: Borg accuses Abela, Caruana of failing to understand workers, says they are ‘used to luxury’. Opposition Leader Alex Borg accused Prime Minister Robert Abela and Finance Minister Clyde Caruana of being out of touch with ordinary workers, arguing that they cannot understand the financial pressures facing Maltese families because they are “used to luxury”.",
-    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-23/local-news/Alex-Borg-accuses-Abela-and-Caruana-of-failing-to-understand-workers-says-they-are-used-to-luxury-6736294914"
   }
 ]
