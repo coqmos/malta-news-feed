@@ -1,24 +1,17 @@
 [
   {
-    "uid": "urn:uuid:3b315e82-4672-5a68-813d-3d5f10394b27",
-    "updateDate": "2026-11-24T10:30:00.0Z",
-    "titleText": "Repeat offender jailed, faces deportation after driving stolen car",
-    "mainText": "From Times of Malta: Repeat offender jailed, faces deportation after driving stolen car. The 21-year-old was found guilty for driving without an insurance policy and licence",
-    "redirectionUrl": "https://timesofmalta.com/article/repeat-offender-jailed-faces-deportation-driving-stolen-car.1137575"
+    "uid": "urn:uuid:365b89c9-d5dc-54c0-aec3-921549603064",
+    "updateDate": "2026-11-24T12:10:00.0Z",
+    "titleText": "Black Friday website aims to ‘bridge the gap’ between consumers and businesses",
+    "mainText": "From Times of Malta: Black Friday website aims to ‘bridge the gap’ between consumers and businesses. Over 80 local businesses featured on The Malta Chamber of SMEs Black Friday website, with 450 vouchers up for grabs",
+    "redirectionUrl": "https://timesofmalta.com/article/black-friday-website-aims-bridge-gap-consumers-businesses.1137572"
   },
   {
-    "uid": "urn:uuid:6c02dfbc-487b-5b94-ab0a-0c9cbd0fa182",
-    "updateDate": "2026-11-24T10:10:00.0Z",
-    "titleText": "Malta reaffirms commitment to strengthening relations with China",
-    "mainText": "From Times of Malta: Malta reaffirms commitment to strengthening relations with China. Discussions included EU-China relations, war in Ukraine and the recent trilateral summit in Shenzhen",
-    "redirectionUrl": "https://timesofmalta.com/article/malta-reaffirms-commitment-strengthening-relations-china.1137570"
-  },
-  {
-    "uid": "urn:uuid:37917a2f-590e-5cc4-bc78-349bc7c621b9",
-    "updateDate": "2026-11-24T09:22:00.0Z",
-    "titleText": "Two jailed following illegal entry into Malta on dinghy from Libya",
-    "mainText": "From The Malta Independent: Two jailed following illegal entry into Malta on dinghy from Libya. Two men were each sentenced to two years in prison on Tuesday after admitting to immigration-related offences, including helping others aboard the same dinghy enter Malta illegally.",
-    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-24/local-news/Two-jailed-following-illegal-entry-into-Malta-on-dinghy-from-Libya-6736294929"
+    "uid": "urn:uuid:534941f4-96ae-56e7-b35a-0131b16f3f96",
+    "updateDate": "2026-11-24T11:58:00.0Z",
+    "titleText": "PA approves 40 flats at Libyan school despite breaches of planning standards",
+    "mainText": "From Times of Malta: PA approves 40 flats at Libyan school despite breaches of planning standards. Development in Ta’ Giorni includes apartments as small as 40 square metres",
+    "redirectionUrl": "https://timesofmalta.com/article/pa-approves-40-flats-libyan-school-despite-breaches.1137591"
   },
   {
     "uid": "urn:uuid:9f087d39-a9ff-5343-8687-da3e6f25a9f4",
@@ -28,10 +21,17 @@
     "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-24/local-news/Two-Pembroke-sites-to-be-transformed-into-recreation-area-and-dog-park-under-Lands-Authority-deal-6736294924"
   },
   {
-    "uid": "urn:uuid:ea644f4f-1fd9-5231-9684-ad7dd9a10862",
-    "updateDate": "2026-11-24T05:00:00.0Z",
-    "titleText": "WATCH | Abela non-committal on annual 14,000 net population increase",
-    "mainText": "From MaltaToday: WATCH | Abela non-committal on annual 14,000 net population increase. Budget measures targeting non-EU workers are expected to slow the population growth rate not reverse the trend, Robert Abela said in comments to MaltaToday. However, the prime minister was unable to provide projections on the deceleration rate when pressed on the matter.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145876/watch__abela_noncommittal_on_annual_14000_net_population_increase"
+    "uid": "urn:uuid:fe10f44b-95b9-544e-8bc6-d5bd45373a98",
+    "updateDate": "2026-11-24T07:26:00.0Z",
+    "titleText": "Somewhere to go when there’s no one to talk to",
+    "mainText": "From MaltaToday: Somewhere to go when there’s no one to talk to. “Hi, are you okay?” This is how social worker Katalin Horti often starts a conversation with someone walking into YMCA Malta’s drop-in centre in Ħamrun.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145874/somewhere_to_go_when_theres_no_one_to_talk_to"
+  },
+  {
+    "uid": "urn:uuid:af282a84-ac5c-5c8c-95bb-be5baf392c1c",
+    "updateDate": "2026-11-23T18:42:00.0Z",
+    "titleText": "PM defends Malta’s economic model, says country remains resilient amid European challenges",
+    "mainText": "From The Malta Independent: PM defends Malta’s economic model, says country remains resilient amid European challenges. Prime Minister Robert Abela has defended the government's economic model, insisting that Malta continues to perform strongly despite the economic challenges facing countries across Europe.",
+    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-23/local-news/Robert-Abela-defends-Malta-s-economic-model-says-country-remains-resilient-amid-European-challenges-6736294915"
   }
 ]
