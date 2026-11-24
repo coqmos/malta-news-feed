@@ -1,5 +1,12 @@
 [
   {
+    "uid": "urn:uuid:c8e74c5a-2536-55e7-921d-ca5d24af765d",
+    "updateDate": "2026-11-24T20:57:00.0Z",
+    "titleText": "Another mobile phone found in a prison cell",
+    "mainText": "From Times of Malta: Another mobile phone found in a prison cell. Discovery made during raid as minister says investigations will continue",
+    "redirectionUrl": "https://timesofmalta.com/article/another-mobile-phone-found-prison-cell.1137617"
+  },
+  {
     "uid": "urn:uuid:c45f13f7-a587-5cb6-b486-dbbd81babd41",
     "updateDate": "2026-11-24T19:09:00.0Z",
     "titleText": "Driving licence surrender scheme did not get desired response, Bonett says",
@@ -21,17 +28,10 @@
     "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-24/local-news/Children-s-book-centred-on-Maltese-honeybee-character-to-be-distributed-across-primary-schools-6736294940"
   },
   {
-    "uid": "urn:uuid:75a3ce5d-3181-5e7f-8da7-9a8162fbbd27",
-    "updateDate": "2026-11-24T17:03:00.0Z",
-    "titleText": "European Commission concerned by Malta government spending growth",
-    "mainText": "From Times of Malta: European Commission concerned by Malta government spending growth. The net expenditure growth rate in 2027 is projected to be above the maximum growth rate recommended by the European Council in annual terms.",
-    "redirectionUrl": "https://timesofmalta.com/article/european-commission-concerned-malta-government-spending-growth.1137614"
-  },
-  {
-    "uid": "urn:uuid:262ec7fa-51b7-5f87-811d-f037093505ee",
-    "updateDate": "2026-11-24T09:24:00.0Z",
-    "titleText": "Momentum urges public to object to seven-storey Mosta elderly care home",
-    "mainText": "From MaltaToday: Momentum urges public to object to seven-storey Mosta elderly care home. Momentum has urged the public to submit formal objections to a proposed seven-storey elderly care home in Mosta before the 11 December deadline.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145913/momentum_urges_public_to_object_to_sevenstorey_mosta_elderly_care_home"
+    "uid": "urn:uuid:a135141b-4add-5173-847a-882d340df2b1",
+    "updateDate": "2026-11-24T14:13:00.0Z",
+    "titleText": "Mediterranean Tourism Forum aims to put residents at the centre of debate",
+    "mainText": "From MaltaToday: Mediterranean Tourism Forum aims to put residents at the centre of debate. A four-day forum in Malta, organised by the Mediterranean Tourism Foundation and the Malta Hotels and Restaurants Association, has set out its focus to find out how tourism can improve daily life for residents.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145931/mediterranean_tourism_forum_aims_to_put_residents_at_the_centre_of_debate_in_malta"
   }
 ]
