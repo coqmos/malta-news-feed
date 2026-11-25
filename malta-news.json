@@ -1,5 +1,12 @@
 [
   {
+    "uid": "urn:uuid:33368045-25be-58e4-b5a4-b6ead8eabdea",
+    "updateDate": "2026-11-25T17:36:00.0Z",
+    "titleText": "Christmas lights come on in Valletta",
+    "mainText": "From Times of Malta: Christmas lights come on in Valletta. Month-long programme of events in the capital",
+    "redirectionUrl": "https://timesofmalta.com/article/christmas-lights-come-valletta.1137669"
+  },
+  {
     "uid": "urn:uuid:95eb675c-a86c-50ba-a63d-6e86f9b1bff7",
     "updateDate": "2026-11-25T15:47:00.0Z",
     "titleText": "32 local councils had financial records auditors could not fully verify, report finds",
@@ -21,17 +28,10 @@
     "redirectionUrl": "https://timesofmalta.com/article/many-cooks-pn-questions-plans-malta-motion-agency.1137663"
   },
   {
-    "uid": "urn:uuid:00735855-e693-54f6-9ca3-a08835cb2b5f",
-    "updateDate": "2026-11-25T15:10:00.0Z",
-    "titleText": "100 TM workers get pay cut and union threatens to stop issuing fines",
-    "mainText": "From Times of Malta: 100 TM workers get pay cut and union threatens to stop issuing fines. Pay cut affected workers who did not punch in or out when they worked overtime last month",
-    "redirectionUrl": "https://timesofmalta.com/article/transport-malta-workers-get-pay-cut-punching-overtime.1137659"
-  },
-  {
-    "uid": "urn:uuid:cd3bbe79-47a2-54f9-b152-89178bfcc2fa",
-    "updateDate": "2026-11-25T11:57:00.0Z",
-    "titleText": "Prison inmate Robert Agius caught with mobile phone just a month after similar incident",
-    "mainText": "From MaltaToday: Prison inmate Robert Agius caught with mobile phone just a month after similar incident. Robert Agius, who is serving a life sentence, is the prison inmate caught with a mobile phone on Tuesday, MaltaToday has learnt. Known as Tal-Maksar, Agius had supplied the bomb that murdered Daphne Caruana Galizia.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145953/prison_inmate_robert_agius_caught_with_mobile_phone_just_a_month_after_similar_incident"
+    "uid": "urn:uuid:14d7ba5d-2d1f-550a-a71e-5f54892474bd",
+    "updateDate": "2026-11-25T13:27:00.0Z",
+    "titleText": "Health minister, Opposition's health spokesperson appeal to MAM to use point-of-care testing",
+    "mainText": "From MaltaToday: Health minister, Opposition's health spokesperson appeal to MAM to use point-of-care testing. Health Minister Ian Borg and shadow minister Stephen Spiteri have appealed to medical stakeholders to engage in a discussion that will eventually lead to the use of point-of-care testing (POCT).",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145957/health_minister_oppositions_health_spokesperson_appeal_to_mam_to_use_pointofcare_testing"
   }
 ]
