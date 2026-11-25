@@ -1,17 +1,24 @@
 [
   {
-    "uid": "urn:uuid:2d609241-b5a2-5471-8b94-fa2e99393ee1",
-    "updateDate": "2026-11-25T05:50:00.0Z",
-    "titleText": "The Mellieħa apartment complex doing things differently",
-    "mainText": "From Times of Malta: The Mellieħa apartment complex doing things differently. Salvina Court was recognised at the Emanuele Luigi Galizia Awards for breaking away from the repetitive designs that dominate Malta’s streetscape",
-    "redirectionUrl": "https://timesofmalta.com/article/mellieha-complex-salvina-court-awards-things-differently.1137470"
+    "uid": "urn:uuid:7be7d13f-98c2-5fb7-bb83-82896527584a",
+    "updateDate": "2026-11-25T09:00:00.0Z",
+    "titleText": "Mohammed Ali, 10, killed at home in Sudan while getting ready for school",
+    "mainText": "From Times of Malta: Mohammed Ali, 10, killed at home in Sudan while getting ready for school. 'Any parent in Malta who got their child ready for school this morning will understand what this family has lost': Karl Schembri, NRC humanitarian",
+    "redirectionUrl": "https://timesofmalta.com/article/mohammed-ali-10-killed-home-sudan-getting-ready-school.1137621"
   },
   {
-    "uid": "urn:uuid:c63fb9c5-ab63-58a3-b282-d201444b9508",
-    "updateDate": "2026-11-25T05:40:00.0Z",
-    "titleText": "Minister to consider law change following husband and wife's ecstasy tragedy",
-    "mainText": "From Times of Malta: Minister to consider law change following husband and wife's ecstasy tragedy. Clifton Grima says he will 'evaluate' a magistrate's call to amend laws concerning drug courts",
-    "redirectionUrl": "https://timesofmalta.com/article/minister-consider-law-change-husband-allegedly-gave-wife-ecstasy-pill.1137504"
+    "uid": "urn:uuid:2afece67-6e15-5729-a7b7-bdf23f861957",
+    "updateDate": "2026-11-25T08:54:00.0Z",
+    "titleText": "Researchers are mapping Malta’s hidden underground world, one cave at a time",
+    "mainText": "From Times of Malta: Researchers are mapping Malta’s hidden underground world, one cave at a time. Researchers are using cutting-edge technology to uncover crumbling caverns and tunnels used in violent crimes",
+    "redirectionUrl": "https://timesofmalta.com/article/wait-researchers-mapping-malta-hidden-undergound-world-one-cave-time.1137495"
+  },
+  {
+    "uid": "urn:uuid:d8e88485-7b23-54e4-a6ed-9fb5b9ae0e15",
+    "updateDate": "2026-11-24T21:17:00.0Z",
+    "titleText": "Another mobile phone discovered in prison cell during night raid",
+    "mainText": "From MaltaToday: Another mobile phone discovered in prison cell during night raid. Another mobile phone has been found in an inmate’s cell in the Corradino Correctional Facility (CCF). In a Facebook post on Tuesday night, Home Affairs Minister Glenn Bedingfield said “another phone” was found during a raid in a prison cell.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145942/another_mobile_phone_discovered_in_prison_cell_during_night_raid_"
   },
   {
     "uid": "urn:uuid:479c16c2-ae92-57fb-bb88-096c191f50ba",
@@ -26,12 +33,5 @@
     "titleText": "Government plans to set up Malta in Motion agency in 2027",
     "mainText": "From MaltaToday: Government plans to set up Malta in Motion agency in 2027. Government plans to set up an agency during 2027 to deliver Malta in Motion, Transport Minister Chris Bonett has revealed.",
     "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145941/government_plans_to_set_up_malta_in_motion_focused_agency_in_2027"
-  },
-  {
-    "uid": "urn:uuid:af651c73-2b2e-58d9-b2e9-6c5d6dd0466e",
-    "updateDate": "2026-11-24T17:49:00.0Z",
-    "titleText": "Person rescued by AFM helicopter after finding themselves in difficulty at Coral Lagoon",
-    "mainText": "From The Malta Independent: Person rescued by AFM helicopter after finding themselves in difficulty at Coral Lagoon. A person was rescued by an Armed Forces of Malta (AFM) helicopter on Tuesday afternoon after finding themselves in difficulty at Coral Lagoon in Mellieħa.",
-    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-24/local-news/Person-rescued-by-AFM-helicopter-after-finding-themselves-in-difficulty-at-Coral-Lagoon-6736294942"
   }
 ]
