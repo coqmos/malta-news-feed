@@ -1,17 +1,17 @@
 [
   {
+    "uid": "urn:uuid:1390c75e-ce0d-5228-94f4-cbee4cb0ae64",
+    "updateDate": "2026-11-26T17:55:00.0Z",
+    "titleText": "Gozo tourism operators call for €4 flat-rate eco-contribution",
+    "mainText": "From Times of Malta: Gozo tourism operators call for €4 flat-rate eco-contribution. Accommodation operators report booking cancellations following announcement of higher rates in 2027 budget",
+    "redirectionUrl": "https://timesofmalta.com/article/gozo-tourism-operators-call-4-flatrate-ecocontribution.1137735"
+  },
+  {
     "uid": "urn:uuid:ed21b35d-1fcf-53a6-a5af-a08f34fb80f8",
     "updateDate": "2026-11-26T16:38:00.0Z",
     "titleText": "These businesses were voted best for customer service in 2026",
     "mainText": "From Times of Malta: These businesses were voted best for customer service in 2026. More than 31,000 votes cast for over 3,000 businesses across Malta and Gozo",
     "redirectionUrl": "https://timesofmalta.com/article/businesses-voted-best-customer-service-2026.1137734"
-  },
-  {
-    "uid": "urn:uuid:d9e2d6ab-e5c6-557d-920a-96dd02ffb148",
-    "updateDate": "2026-11-26T16:13:00.0Z",
-    "titleText": "Enemalta installs six kilometres of new electricity cables in Birkirkara",
-    "mainText": "From Times of Malta: Enemalta installs six kilometres of new electricity cables in Birkirkara. Project aims to reinforce the network and meet growing electricity demand",
-    "redirectionUrl": "https://timesofmalta.com/article/enemalta-installs-six-kilometres-new-electricity-cables-birkirkara.1137733"
   },
   {
     "uid": "urn:uuid:0db2f780-60bc-5286-936c-3c981b8d4b46",
@@ -28,10 +28,10 @@
     "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-26/local-news/4-7-million-Familja-scheme-to-support-7-000-children-with-up-to-700-per-child-annually-6736295024"
   },
   {
-    "uid": "urn:uuid:6cf7a33f-16cf-53c5-933d-f1f64f0a2e8a",
-    "updateDate": "2026-11-26T10:39:00.0Z",
-    "titleText": "Malta-registered tanker sinks off Ibiza, one crew member dies",
-    "mainText": "From MaltaToday: Malta-registered tanker sinks off Ibiza, one crew member dies. A Malta-registered tanker sank off the coast of Ibiza, Spain, in the early hours of Thursday 26 November, leaving one crew member dead, Transport Malta has confirmed.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145972/maltaregistered_tanker_sinks_off_ibiza_one_crew_member_dies"
+    "uid": "urn:uuid:9c3b5e2c-6589-562f-b76f-79e9f8e59fab",
+    "updateDate": "2026-11-26T13:22:00.0Z",
+    "titleText": "Health Commissioner urges government, MAM to put patients first amid ongoing dispute",
+    "mainText": "From MaltaToday: Health Commissioner urges government, MAM to put patients first amid ongoing dispute. Health Commissioner Ray Galea has appealed for an urgent resolution to the ongoing dispute between the government and the Medical Association of Malta, insisting that patients' interests must remain the priority.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145977/health_commissioner_urges_government_mam_to_put_patients_first_amid_ongoing_dispute"
   }
 ]
