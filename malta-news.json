@@ -1,17 +1,31 @@
 [
   {
-    "uid": "urn:uuid:721ce4a8-4f9d-52e1-b363-bd3f6e060c51",
-    "updateDate": "2026-11-26T09:07:00.0Z",
-    "titleText": "VAT inspections ground to a halt in election month, Finance Minister confirms",
-    "mainText": "From Times of Malta: VAT inspections ground to a halt in election month, Finance Minister confirms. Zero inspections carried out in May and just 26 in April",
-    "redirectionUrl": "https://timesofmalta.com/article/vat-inspections-ground-halt-election-month-finance-minister-confirms.1137679"
+    "uid": "urn:uuid:d1e15876-32e9-5b65-b558-d50623a55847",
+    "updateDate": "2026-11-26T10:15:00.0Z",
+    "titleText": "Malta must avoid 'two-speed society' as government unveils new AI strategy",
+    "mainText": "From Times of Malta: Malta must avoid 'two-speed society' as government unveils new AI strategy. Revamped strategy includes 86 measures to promote AI adoption and improve public services",
+    "redirectionUrl": "https://timesofmalta.com/article/malta-avoid-twospeed-society-government-unveils-new-ai-strategy.1137693"
   },
   {
-    "uid": "urn:uuid:cd44dea8-560f-530b-82f8-fea6ecbb055f",
-    "updateDate": "2026-11-26T08:44:00.0Z",
-    "titleText": "Months of roadworks still ahead on key route into Three Cities",
-    "mainText": "From Times of Malta: Months of roadworks still ahead on key route into Three Cities. Triq Għajn Dwieli has been subject to traffic diversions since September",
-    "redirectionUrl": "https://timesofmalta.com/article/months-roadworks-still-ahead-key-route-three-cities.1137677"
+    "uid": "urn:uuid:bc9c21e7-5019-5029-8993-85f081310853",
+    "updateDate": "2026-11-26T09:45:00.0Z",
+    "titleText": "Man jailed 15 years for raping, exploiting three girls and cannabis trafficking",
+    "mainText": "From Times of Malta: Man jailed 15 years for raping, exploiting three girls and cannabis trafficking. The 30-year-old man admitted to seven charges, including trafficking the minors",
+    "redirectionUrl": "https://timesofmalta.com/article/man-jailed-15-years-raping-exploiting-three-girls.1137691"
+  },
+  {
+    "uid": "urn:uuid:fe5a1eec-6e52-58ce-8a20-ef52c7777fed",
+    "updateDate": "2026-11-26T09:41:00.0Z",
+    "titleText": "Equality Minister inaugurates red bench to commemorate female victims of gender-based violence",
+    "mainText": "From The Malta Independent: Equality Minister inaugurates red bench to commemorate female victims of gender-based violence. At an event organised by the Italian Embassy, Equality Minister Rosianne Cutajar inaugurated a symbolic red bench, known as the \"Panchina Rossa,\" in remembrance of the women who have died due to gender-based violence.",
+    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-26/local-news/Equality-Minister-inaugurates-red-bench-to-commemorate-female-victims-of-gender-based-violence-6736294999"
+  },
+  {
+    "uid": "urn:uuid:8251f8a7-69dd-59cc-bd19-9e9f2b5b5ebb",
+    "updateDate": "2026-11-26T08:19:00.0Z",
+    "titleText": "GTA submits eco-contribution proposals to government, warning of 2027 cancellations",
+    "mainText": "From The Malta Independent: GTA submits eco-contribution proposals to government, warning of 2027 cancellations. The Gozo Tourism Association (GTA) has formally submitted its detailed position to the Prime Minister, the Minister for Finance, the Minister for Tourism, and the Minister for Gozo outlining the concerns and recommendations of Gozo's accommodation sector regarding the proposed revision of the…",
+    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-26/local-news/GTA-submits-eco-contribution-proposals-to-government-warning-of-2027-cancellations-6736294997"
   },
   {
     "uid": "urn:uuid:f6ccec84-3f84-5553-b94a-718bbe5a77c1",
@@ -19,19 +33,5 @@
     "titleText": "VAT inspections stopped for election month",
     "mainText": "From MaltaToday: VAT inspections stopped for election month. No VAT inspections took place in May, the month of the general election, figures tabled in parliament by Finance Minister Clyde Caruana show. And in April, when the expectation of a general election was high, VAT inspections dropped to a mere 26.",
     "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145964/vat_inspections_stopped_for_election_month"
-  },
-  {
-    "uid": "urn:uuid:3803bc1f-dc0c-5fe6-abc8-7f0e7f214f71",
-    "updateDate": "2026-11-25T19:45:00.0Z",
-    "titleText": "Environment Minister highlights climate extremities following ‘very disappointing’ COP31",
-    "mainText": "From The Malta Independent: Environment Minister highlights climate extremities following ‘very disappointing’ COP31. Environment Minister Miriam Dalli opened her speech in Parliament on Wednesday by listing several climate-related statistics that reached their highest levels on record this year in her first address following COP31.",
-    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-25/local-news/Environment-Minister-highlights-climate-extremities-following-very-disappointing-COP31-6736294974"
-  },
-  {
-    "uid": "urn:uuid:8f44fd70-5441-59d3-ab4c-8fd255569606",
-    "updateDate": "2026-11-25T18:56:00.0Z",
-    "titleText": "Government to open call for Grand Harbour regeneration proposals, Energy Minister says",
-    "mainText": "From MaltaToday: Government to open call for Grand Harbour regeneration proposals, Energy Minister says. The government is preparing a call for proposals to redevelop parts of Grand Harbour, Energy Minister Miriam Dalli has said on Wednesday.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145966/call_for_grand_harbour_redevelopment_proposals_to_be_released_soon_energy_minister_says"
   }
 ]
