@@ -1,17 +1,24 @@
 [
   {
-    "uid": "urn:uuid:becbd8e7-7266-58c7-af5b-164f46afb3b5",
-    "updateDate": "2026-11-26T06:25:00.0Z",
-    "titleText": "Activists hold symbolic procession for female victims of violence",
-    "mainText": "From Times of Malta: Activists hold symbolic procession for female victims of violence. 'No one should endure mistreatment or objectification based on gender, ' activists insist",
-    "redirectionUrl": "https://timesofmalta.com/article/activists-hold-symbolic-procession-female-victims-violence.1137672"
+    "uid": "urn:uuid:721ce4a8-4f9d-52e1-b363-bd3f6e060c51",
+    "updateDate": "2026-11-26T09:07:00.0Z",
+    "titleText": "VAT inspections ground to a halt in election month, Finance Minister confirms",
+    "mainText": "From Times of Malta: VAT inspections ground to a halt in election month, Finance Minister confirms. Zero inspections carried out in May and just 26 in April",
+    "redirectionUrl": "https://timesofmalta.com/article/vat-inspections-ground-halt-election-month-finance-minister-confirms.1137679"
   },
   {
-    "uid": "urn:uuid:e2ac291e-3a98-5cc8-b4db-468a74514404",
-    "updateDate": "2026-11-26T06:00:00.0Z",
-    "titleText": "In pictures: The fate of the Maltese goat",
-    "mainText": "From Times of Malta: In pictures: The fate of the Maltese goat. Our ancestors seemed moderately proud of its presence and certainly not ashamed of it",
-    "redirectionUrl": "https://timesofmalta.com/article/pictures-fate-maltese-goat.1137151"
+    "uid": "urn:uuid:cd44dea8-560f-530b-82f8-fea6ecbb055f",
+    "updateDate": "2026-11-26T08:44:00.0Z",
+    "titleText": "Months of roadworks still ahead on key route into Three Cities",
+    "mainText": "From Times of Malta: Months of roadworks still ahead on key route into Three Cities. Triq Għajn Dwieli has been subject to traffic diversions since September",
+    "redirectionUrl": "https://timesofmalta.com/article/months-roadworks-still-ahead-key-route-three-cities.1137677"
+  },
+  {
+    "uid": "urn:uuid:f6ccec84-3f84-5553-b94a-718bbe5a77c1",
+    "updateDate": "2026-11-26T05:00:00.0Z",
+    "titleText": "VAT inspections stopped for election month",
+    "mainText": "From MaltaToday: VAT inspections stopped for election month. No VAT inspections took place in May, the month of the general election, figures tabled in parliament by Finance Minister Clyde Caruana show. And in April, when the expectation of a general election was high, VAT inspections dropped to a mere 26.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145964/vat_inspections_stopped_for_election_month"
   },
   {
     "uid": "urn:uuid:3803bc1f-dc0c-5fe6-abc8-7f0e7f214f71",
@@ -21,17 +28,10 @@
     "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-25/local-news/Environment-Minister-highlights-climate-extremities-following-very-disappointing-COP31-6736294974"
   },
   {
-    "uid": "urn:uuid:c4feacc0-ac71-5ca5-a4ef-166312defc4d",
-    "updateDate": "2026-11-25T16:32:00.0Z",
-    "titleText": "827 people registered as organ donors in first 10 months of 2026",
-    "mainText": "From The Malta Independent: 827 people registered as organ donors in first 10 months of 2026. A total of 827 people registered as organ donors in Malta between January and October 2026, compared with 587 throughout 2025, according to figures tabled in Parliament by Health Minister Ian Borg.",
-    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-25/local-news/827-people-registered-as-organ-donors-in-first-10-months-of-2026-6736294973"
-  },
-  {
-    "uid": "urn:uuid:ce4e6108-b79d-5fc0-80c0-8848ddc0be02",
-    "updateDate": "2026-11-25T16:19:00.0Z",
-    "titleText": "TM Enforcement Officers won't issue fines if outstanding salaries aren't paid by Monday, UĦM says",
-    "mainText": "From MaltaToday: TM Enforcement Officers won't issue fines if outstanding salaries aren't paid by Monday, UĦM says. Trade union UĦM – Voice of the Workers has registered an industrial dispute with Transport Malta following reports from several employees that they did not receive their full pay. The union stated that the dispute concerns reductions in overtime pay.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145965/tm_enforcement_officers_wont_issue_fines_if_outstanding_salaries_arent_paid_by_monday_um_says"
+    "uid": "urn:uuid:8f44fd70-5441-59d3-ab4c-8fd255569606",
+    "updateDate": "2026-11-25T18:56:00.0Z",
+    "titleText": "Government to open call for Grand Harbour regeneration proposals, Energy Minister says",
+    "mainText": "From MaltaToday: Government to open call for Grand Harbour regeneration proposals, Energy Minister says. The government is preparing a call for proposals to redevelop parts of Grand Harbour, Energy Minister Miriam Dalli has said on Wednesday.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/145966/call_for_grand_harbour_redevelopment_proposals_to_be_released_soon_energy_minister_says"
   }
 ]
