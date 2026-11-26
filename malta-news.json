@@ -1,5 +1,12 @@
 [
   {
+    "uid": "urn:uuid:ed21b35d-1fcf-53a6-a5af-a08f34fb80f8",
+    "updateDate": "2026-11-26T16:38:00.0Z",
+    "titleText": "These businesses were voted best for customer service in 2026",
+    "mainText": "From Times of Malta: These businesses were voted best for customer service in 2026. More than 31,000 votes cast for over 3,000 businesses across Malta and Gozo",
+    "redirectionUrl": "https://timesofmalta.com/article/businesses-voted-best-customer-service-2026.1137734"
+  },
+  {
     "uid": "urn:uuid:d9e2d6ab-e5c6-557d-920a-96dd02ffb148",
     "updateDate": "2026-11-26T16:13:00.0Z",
     "titleText": "Enemalta installs six kilometres of new electricity cables in Birkirkara",
@@ -19,13 +26,6 @@
     "titleText": "€4.7 million Familja+ scheme to support 7,000 children, with up to €700 per child annually",
     "mainText": "From The Malta Independent: €4.7 million Familja+ scheme to support 7,000 children, with up to €700 per child annually. Around 7,000 children in vulnerable situations are expected to benefit from a new €4.7 million government scheme offering financial assistance for essential household items, mental well-being services and extracurricular activities.",
     "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-26/local-news/4-7-million-Familja-scheme-to-support-7-000-children-with-up-to-700-per-child-annually-6736295024"
-  },
-  {
-    "uid": "urn:uuid:d1c501ff-4725-5bc8-83f9-7d64f74b4e22",
-    "updateDate": "2026-11-26T15:31:00.0Z",
-    "titleText": "Repeat offender caught gambling at casino during curfew",
-    "mainText": "From Times of Malta: Repeat offender caught gambling at casino during curfew. Adrian Muscat, known as ‘il-Galletta’, granted bail again after admitting to using another person’s ID card to enter casino",
-    "redirectionUrl": "https://timesofmalta.com/article/repeat-offender-caught-gambling-casino-curfew.1137730"
   },
   {
     "uid": "urn:uuid:6cf7a33f-16cf-53c5-933d-f1f64f0a2e8a",
