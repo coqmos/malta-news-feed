@@ -1,5 +1,12 @@
 [
   {
+    "uid": "urn:uuid:86a1f53b-7dff-590b-a09b-10e0828e3d65",
+    "updateDate": "2026-11-28T14:19:00.0Z",
+    "titleText": "Hudson launches internal review following Sports Direct Qormi altercation",
+    "mainText": "From Times of Malta: Hudson launches internal review following Sports Direct Qormi altercation. Company says injured employees are well and confirms it is cooperating with police investigation",
+    "redirectionUrl": "https://timesofmalta.com/article/hudson-launches-internal-review-sports-direct-qormi-altercation.1137835"
+  },
+  {
     "uid": "urn:uuid:f91e3791-6e9c-5c4a-aef7-dc21940d10c4",
     "updateDate": "2026-11-28T12:35:00.0Z",
     "titleText": "Labour president downplays row with Abela over foreign workers",
@@ -7,11 +14,18 @@
     "redirectionUrl": "https://timesofmalta.com/article/labour-president-alex-sciberras-robert-abela-foreign-workers.1137826"
   },
   {
-    "uid": "urn:uuid:bded8e2a-0678-5b4a-b09f-80299ae60d59",
-    "updateDate": "2026-11-28T10:37:00.0Z",
-    "titleText": "President visits Multigas as company marks its centenary",
-    "mainText": "From Times of Malta: President visits Multigas as company marks its centenary. €4 million investment to expand the company’s nitrogen production capacity",
-    "redirectionUrl": "https://timesofmalta.com/article/president-visits-multigas-company-marks-centenary.1137818"
+    "uid": "urn:uuid:c7983284-4c20-58c5-b7eb-d09648b60882",
+    "updateDate": "2026-11-28T11:54:00.0Z",
+    "titleText": "PL President believes budget measures unintentionally stirred anti-foreigner sentiment",
+    "mainText": "From MaltaToday: PL President believes budget measures unintentionally stirred anti-foreigner sentiment. Labour Party President Alex Sciberras believes government’s controversial budget measures targeting non-EU workers have “unintentionally” spread anti-foreigner sentiment.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/146011/pl_president_believes_budget_measures_unintentionally_stirred_antiforeigner_sentiment"
+  },
+  {
+    "uid": "urn:uuid:10b28034-ecf5-5793-8dbb-7853513f92ba",
+    "updateDate": "2026-11-28T11:26:00.0Z",
+    "titleText": "GWU condemns assault on workers carrying out their duties",
+    "mainText": "From MaltaToday: GWU condemns assault on workers carrying out their duties. The General Workers’ Union (GWU) condemned an assault on employees while they were carrying out their duties, calling for those responsible to be held accountable. The incident at Sports Direct's Qormi outlet was widely shared on social media.",
+    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/146010/gwu_condemns_assault_on_workers_carrying_out_their_duties"
   },
   {
     "uid": "urn:uuid:16defc01-56dd-540b-b495-176832b5c1b8",
@@ -19,19 +33,5 @@
     "titleText": "65-year-old Italian man dies in workplace accident in Ħal Farruġ",
     "mainText": "From The Malta Independent: 65-year-old Italian man dies in workplace accident in Ħal Farruġ. A 65-year-old Italian man died Saturday while working at a plant in Triq Ta' Ħal Farruġ, on the outskirts of Siġġiewi, the police said.",
     "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-28/local-news/65-year-old-Italian-man-dies-in-workplace-accident-in-Hal-Farrug-6736295065"
-  },
-  {
-    "uid": "urn:uuid:6fb05abc-1e6c-5884-accc-8cad1d8ac54f",
-    "updateDate": "2026-11-28T08:04:00.0Z",
-    "titleText": "European Court of Justice throws out case on Malta's controversial Bill 55",
-    "mainText": "From MaltaToday: European Court of Justice throws out case on Malta's controversial Bill 55. The European Court of Justice has declined to rule on whether Malta’s controversial Bill 55 complies with EU law, leaving an ongoing dispute between Malta and Austria unresolved as the latter prepares to overhaul its gambling market.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/146007/european_court_of_justice_throws_out_case_on_maltas_controversial_bill_55"
-  },
-  {
-    "uid": "urn:uuid:53e78810-a015-52aa-aaa1-0c585aa23080",
-    "updateDate": "2026-11-27T19:27:00.0Z",
-    "titleText": "International arrest warrant issued for ex-Steward Health Care boss Ralph de la Torre, court hears",
-    "mainText": "From The Malta Independent: International arrest warrant issued for ex-Steward Health Care boss Ralph de la Torre, court hears. Maltese authorities have issued an international arrest warrant for Ralph de la Torre, the former Steward Health Care chief who has yet to turn up to face charges over the hospitals deal.",
-    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-27/local-news/International-arrest-warrant-issued-for-ex-Steward-Health-Care-boss-Ralph-de-la-Torre-court-hears-6736295056"
   }
 ]
