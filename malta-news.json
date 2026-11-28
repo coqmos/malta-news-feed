@@ -1,10 +1,17 @@
 [
   {
-    "uid": "urn:uuid:205b317f-a44d-51d1-8a86-2f714b576e29",
-    "updateDate": "2026-11-27T19:41:00.0Z",
-    "titleText": "Food safety warning over undeclared mustard in organic soba noodles",
-    "mainText": "From Times of Malta: Food safety warning over undeclared mustard in organic soba noodles. Consumers allergic or intolerant to mustard advised not to consume affected batch of Hakubaku noodles",
-    "redirectionUrl": "https://timesofmalta.com/article/food-safety-warning-undeclared-mustard-organic-soba-noodles.1137799"
+    "uid": "urn:uuid:ce8c46ce-f910-5d7a-af1f-6657f980d60e",
+    "updateDate": "2026-11-28T05:45:00.0Z",
+    "titleText": "Europe's top court refuses to rule on Malta's disputed gaming law",
+    "mainText": "From Times of Malta: Europe's top court refuses to rule on Malta's disputed gaming law. ECJ throws out Austrian request for a ruling on the legality of Malta's Bill 55",
+    "redirectionUrl": "https://timesofmalta.com/article/ecj-bill-55-ruling-thrown-malta-gaming-sector.1137788"
+  },
+  {
+    "uid": "urn:uuid:b23b435b-539c-558b-9d29-985dc1ed192f",
+    "updateDate": "2026-11-28T05:30:00.0Z",
+    "titleText": "Libyan institute to withdraw court appeal over Ta’ Ġiorni mosque",
+    "mainText": "From Times of Malta: Libyan institute to withdraw court appeal over Ta’ Ġiorni mosque. Institute will not pursue its mosque bid after 'considering views expressed across Maltese society'",
+    "redirectionUrl": "https://timesofmalta.com/article/libyan-institute-withdraw-court-appeal-ta-giorni-mosque.1137789"
   },
   {
     "uid": "urn:uuid:53e78810-a015-52aa-aaa1-0c585aa23080",
@@ -12,13 +19,6 @@
     "titleText": "International arrest warrant issued for ex-Steward Health Care boss Ralph de la Torre, court hears",
     "mainText": "From The Malta Independent: International arrest warrant issued for ex-Steward Health Care boss Ralph de la Torre, court hears. Maltese authorities have issued an international arrest warrant for Ralph de la Torre, the former Steward Health Care chief who has yet to turn up to face charges over the hospitals deal.",
     "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-27/local-news/International-arrest-warrant-issued-for-ex-Steward-Health-Care-boss-Ralph-de-la-Torre-court-hears-6736295056"
-  },
-  {
-    "uid": "urn:uuid:1542f5b7-71a5-5f90-bee2-38b3b291f21b",
-    "updateDate": "2026-11-27T18:13:00.0Z",
-    "titleText": "Ten new social housing apartments to be built in Paola",
-    "mainText": "From Times of Malta: Ten new social housing apartments to be built in Paola. Two projects represent a combined investment of around €900,000",
-    "redirectionUrl": "https://timesofmalta.com/article/ten-new-social-housing-apartments-built-paola.1137794"
   },
   {
     "uid": "urn:uuid:d3b32f14-bfa0-51e4-b845-e57efc1d384c",
