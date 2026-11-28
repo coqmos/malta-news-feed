@@ -2,8 +2,8 @@
   {
     "uid": "urn:uuid:7af93f73-45d3-57d3-a180-2213d640b839",
     "updateDate": "2026-11-28T09:04:00.0Z",
-    "titleText": "Watch: Authorities probe dangling excavator operator after video goes viral",
-    "mainText": "From Times of Malta: Watch: Authorities probe dangling excavator operator after video goes viral. BCA and OHSA spokespersons say authorities are working to establish the site's locations",
+    "titleText": "Watch: Works halted after worker filmed demolishing building from mid-air",
+    "mainText": "From Times of Malta: Watch: Works halted after worker filmed demolishing building from mid-air. Santa Venera site being developed into 57 apartments by property tycoon Mark Agius",
     "redirectionUrl": "https://timesofmalta.com/article/watch-authorities-probe-dangling-excavator-operator-video-goes-viral.1137816"
   },
   {
@@ -12,6 +12,13 @@
     "titleText": "KM Malta eyes China with new airline partnerships",
     "mainText": "From Times of Malta: KM Malta eyes China with new airline partnerships. National airline seeks codeshare agreement with Chinese carriers",
     "redirectionUrl": "https://timesofmalta.com/article/km-malta-eyes-china-new-airline-partnerships.1137815"
+  },
+  {
+    "uid": "urn:uuid:16defc01-56dd-540b-b495-176832b5c1b8",
+    "updateDate": "2026-11-28T08:06:00.0Z",
+    "titleText": "65-year-old Italian man dies in workplace accident in Ħal Farruġ",
+    "mainText": "From The Malta Independent: 65-year-old Italian man dies in workplace accident in Ħal Farruġ. A 65-year-old Italian man died Saturday while working at a plant in Triq Ta' Ħal Farruġ, on the outskirts of Siġġiewi, the police said.",
+    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-28/local-news/65-year-old-Italian-man-dies-in-workplace-accident-in-Hal-Farrug-6736295065"
   },
   {
     "uid": "urn:uuid:bec6a175-3755-5fea-99a4-44e67d91fb27",
@@ -26,12 +33,5 @@
     "titleText": "International arrest warrant issued for ex-Steward Health Care boss Ralph de la Torre, court hears",
     "mainText": "From The Malta Independent: International arrest warrant issued for ex-Steward Health Care boss Ralph de la Torre, court hears. Maltese authorities have issued an international arrest warrant for Ralph de la Torre, the former Steward Health Care chief who has yet to turn up to face charges over the hospitals deal.",
     "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-27/local-news/International-arrest-warrant-issued-for-ex-Steward-Health-Care-boss-Ralph-de-la-Torre-court-hears-6736295056"
-  },
-  {
-    "uid": "urn:uuid:334b07db-6d7f-5b4e-a514-15b8d65b2cb8",
-    "updateDate": "2026-11-27T18:13:00.0Z",
-    "titleText": "Birkirkara local council says Civic Centre has no room for police station",
-    "mainText": "From MaltaToday: Birkirkara local council says Civic Centre has no room for police station. There is no room for a police station in the town's Civic Centre, the Birkirkara local council has said on Friday, citing an agreement that sets out the building's use.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/146005/birkirkara_council_says_civic_centre_has_no_room_for_police_station"
   }
 ]
