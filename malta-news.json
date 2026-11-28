@@ -1,17 +1,31 @@
 [
   {
-    "uid": "urn:uuid:86a1f53b-7dff-590b-a09b-10e0828e3d65",
-    "updateDate": "2026-11-28T14:19:00.0Z",
-    "titleText": "Hudson launches internal review following Sports Direct Qormi altercation",
-    "mainText": "From Times of Malta: Hudson launches internal review following Sports Direct Qormi altercation. Company says injured employees are well and confirms it is cooperating with police investigation",
-    "redirectionUrl": "https://timesofmalta.com/article/hudson-launches-internal-review-sports-direct-qormi-altercation.1137835"
+    "uid": "urn:uuid:8c3b404e-c5e2-59c0-8fbe-51812536fb84",
+    "updateDate": "2026-11-28T16:10:00.0Z",
+    "titleText": "Volunteers to receive legal protection for first time under proposed law",
+    "mainText": "From Times of Malta: Volunteers to receive legal protection for first time under proposed law. Reform aims to cut bureaucracy and ease reporting requirements for voluntary organisations",
+    "redirectionUrl": "https://timesofmalta.com/article/volunteers-receive-legal-protection-first-time-proposed-law.1137842"
   },
   {
-    "uid": "urn:uuid:f91e3791-6e9c-5c4a-aef7-dc21940d10c4",
-    "updateDate": "2026-11-28T12:35:00.0Z",
-    "titleText": "Labour president downplays row with Abela over foreign workers",
-    "mainText": "From Times of Malta: Labour president downplays row with Abela over foreign workers. Alex Sciberras says the two sometimes disagree, but 'there was no fighting or yelling'",
-    "redirectionUrl": "https://timesofmalta.com/article/labour-president-alex-sciberras-robert-abela-foreign-workers.1137826"
+    "uid": "urn:uuid:edd5a777-53b0-5fa9-a877-8d33cf8cca7c",
+    "updateDate": "2026-11-28T15:48:00.0Z",
+    "titleText": "Specialist nurse to support people living with Parkinson’s in Malta",
+    "mainText": "From Times of Malta: Specialist nurse to support people living with Parkinson’s in Malta. More than 2,000 people are receiving treatment for the condition",
+    "redirectionUrl": "https://timesofmalta.com/article/specialist-nurse-support-people-living-parkinson-malta.1137839"
+  },
+  {
+    "uid": "urn:uuid:a7345b16-e0f7-5f3f-b6d5-b311ecb870fc",
+    "updateDate": "2026-11-28T15:01:00.0Z",
+    "titleText": "Over 2,000 people in Malta receiving treatment for Parkinson's Disease",
+    "mainText": "From The Malta Independent: Over 2,000 people in Malta receiving treatment for Parkinson's Disease. More than 2,000 people in Malta are currently registered as receiving treatment for Parkinson's disease, Deputy Prime Minister and Minister for Health Ian Borg announced at the opening of the Advances and Challenges in Parkinson's Disease conference.",
+    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-28/local-news/Over-2-000-people-in-Malta-receiving-treatment-for-Parkinson-s-Disease-6736295071"
+  },
+  {
+    "uid": "urn:uuid:847a0b20-da0c-58e6-b152-550d95bd8347",
+    "updateDate": "2026-11-28T12:51:00.0Z",
+    "titleText": "Refurbished hall inaugurated at Mikiel Anton Vassalli College in Ħamrun",
+    "mainText": "From The Malta Independent: Refurbished hall inaugurated at Mikiel Anton Vassalli College in Ħamrun. Minister for Education and Sport Byron Camilleri inaugurated the newly refurbished hall at Mikiel Anton Vassalli College in Ħamrun following extensive modernization works carried out under the EDU Infrastructure programme, the government said Saturday.",
+    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-28/local-news/Refurbished-hall-inaugurated-at-Mikiel-Anton-Vassalli-College-in-Hamrun-6736295070"
   },
   {
     "uid": "urn:uuid:c7983284-4c20-58c5-b7eb-d09648b60882",
@@ -19,19 +33,5 @@
     "titleText": "PL President believes budget measures unintentionally stirred anti-foreigner sentiment",
     "mainText": "From MaltaToday: PL President believes budget measures unintentionally stirred anti-foreigner sentiment. Labour Party President Alex Sciberras believes government’s controversial budget measures targeting non-EU workers have “unintentionally” spread anti-foreigner sentiment.",
     "redirectionUrl": "https://www.maltatoday.com.mt/news/national/146011/pl_president_believes_budget_measures_unintentionally_stirred_antiforeigner_sentiment"
-  },
-  {
-    "uid": "urn:uuid:10b28034-ecf5-5793-8dbb-7853513f92ba",
-    "updateDate": "2026-11-28T11:26:00.0Z",
-    "titleText": "GWU condemns assault on workers carrying out their duties",
-    "mainText": "From MaltaToday: GWU condemns assault on workers carrying out their duties. The General Workers’ Union (GWU) condemned an assault on employees while they were carrying out their duties, calling for those responsible to be held accountable. The incident at Sports Direct's Qormi outlet was widely shared on social media.",
-    "redirectionUrl": "https://www.maltatoday.com.mt/news/national/146010/gwu_condemns_assault_on_workers_carrying_out_their_duties"
-  },
-  {
-    "uid": "urn:uuid:16defc01-56dd-540b-b495-176832b5c1b8",
-    "updateDate": "2026-11-28T08:06:00.0Z",
-    "titleText": "65-year-old Italian man dies in workplace accident in Ħal Farruġ",
-    "mainText": "From The Malta Independent: 65-year-old Italian man dies in workplace accident in Ħal Farruġ. A 65-year-old Italian man died Saturday while working at a plant in Triq Ta' Ħal Farruġ, on the outskirts of Siġġiewi, the police said.",
-    "redirectionUrl": "https://www.independent.com.mt/articles/2026-11-28/local-news/65-year-old-Italian-man-dies-in-workplace-accident-in-Hal-Farrug-6736295065"
   }
 ]
